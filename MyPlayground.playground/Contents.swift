@@ -1,5 +1,4 @@
 import UIKit
 
 let str = "miaou"
-str.replacingOccurrences(of: "i", with: "b")
-print(str)
+print(str.replacingOccurrences(of: "i", with: "b"))
