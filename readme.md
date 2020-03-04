@@ -1,8 +1,9 @@
-## Done
+# Done
 - Create Layout
 - Create Buttons
 - Buttons alter main display
+- Basic Calculations
 
 # Todo
-- Basic calculations
-
+- Autocast to int from double
+- Percent and +/- button
